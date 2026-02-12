@@ -1,11 +1,10 @@
 ---
 name: crisis-command-protocol
-description: Rapidly resolve urgent crises through decisive command authority—assembling
-  decision-makers, stating terms, and forcing resolution within a defined timeframe.
+description: Rapidly resolve urgent crises through decisive command authority—assembling decision-makers, stating terms, and forcing resolution within a defined timeframe.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - crisis-command-protocol
 - escalation
