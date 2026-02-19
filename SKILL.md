@@ -4,7 +4,8 @@ description: Rapidly resolve urgent crises through decisive command authority—
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3717
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - crisis-command-protocol
 - escalation
